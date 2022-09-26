@@ -7,3 +7,8 @@ git commit -m (<nom du commit>)
 git push
 
 ajout: git pull
+
+aller plus loin
+
+creer ue branch: git branch(<nom de la branch>)
+changer de branch: switch (<nom de la branch>)
